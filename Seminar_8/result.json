@@ -1,0 +1,143 @@
+{
+  "C:\\Users\\khani\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Seminar_8": {
+    "File_manager": {
+      "object_size": 24084,
+      "object_type": "directory",
+      "parant_directory": "\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b"
+    },
+    "data.csv": {
+      "object_size": 176,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data.json": {
+      "object_size": 145,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data.txt": {
+      "object_size": 124,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data1.json": {
+      "object_size": 208,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "data2.json": {
+      "object_size": 297,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "main.py": {
+      "object_size": 664,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result.csv": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result.json": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "result.pickle": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "task_homework.py": {
+      "object_size": 3932,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "Seminar_8"
+    }
+  },
+  "C:\\Users\\khani\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Seminar_8\\File_manager": {
+    "__pycache__": {
+      "object_size": 15014,
+      "object_type": "directory",
+      "parant_directory": "Seminar_8"
+    },
+    "create_file_json.py": {
+      "object_size": 2343,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "create_file_txt.py": {
+      "object_size": 544,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "csv_to_json.py": {
+      "object_size": 1656,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "directory_reference.py": {
+      "object_size": 2886,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "json_to_csv.py": {
+      "object_size": 1040,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "txt_to_json.py": {
+      "object_size": 601,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    },
+    "__init__.py": {
+      "object_size": 0,
+      "object_type": "file",
+      "parant_directory": "File_manager"
+    }
+  },
+  "C:\\Users\\khani\\OneDrive\\\u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0441\u0442\u043e\u043b\\Seminar_8\\File_manager\\__pycache__": {
+    "create_file_json.cpython-311.pyc": {
+      "object_size": 3452,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "create_file_txt.cpython-311.pyc": {
+      "object_size": 1236,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "csv_to_json.cpython-311.pyc": {
+      "object_size": 2210,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "directory_reference.cpython-311.pyc": {
+      "object_size": 4427,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "json_to_csv.cpython-311.pyc": {
+      "object_size": 2174,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "txt_to_json.cpython-311.pyc": {
+      "object_size": 1321,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    },
+    "__init__.cpython-311.pyc": {
+      "object_size": 194,
+      "object_type": "file",
+      "parant_directory": "__pycache__"
+    }
+  }
+}

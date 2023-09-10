@@ -1,0 +1,28 @@
+object_name,path,object_size,object_type,parant_directory
+File_manager,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,24084,directory,Рабочий стол
+data.csv,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,176,file,Seminar_8
+data.json,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,145,file,Seminar_8
+data.txt,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,124,file,Seminar_8
+data1.json,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,208,file,Seminar_8
+data2.json,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,297,file,Seminar_8
+main.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,664,file,Seminar_8
+result.csv,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,0,file,Seminar_8
+result.json,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,0,file,Seminar_8
+result.pickle,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,0,file,Seminar_8
+task_homework.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,3932,file,Seminar_8
+__init__.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8,0,file,Seminar_8
+__pycache__,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,15014,directory,Seminar_8
+create_file_json.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,2343,file,File_manager
+create_file_txt.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,544,file,File_manager
+csv_to_json.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,1656,file,File_manager
+directory_reference.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,2886,file,File_manager
+json_to_csv.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,1040,file,File_manager
+txt_to_json.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,601,file,File_manager
+__init__.py,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager,0,file,File_manager
+create_file_json.cpython-311.pyc,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager\__pycache__,3452,file,__pycache__
+create_file_txt.cpython-311.pyc,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager\__pycache__,1236,file,__pycache__
+csv_to_json.cpython-311.pyc,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager\__pycache__,2210,file,__pycache__
+directory_reference.cpython-311.pyc,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager\__pycache__,4427,file,__pycache__
+json_to_csv.cpython-311.pyc,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager\__pycache__,2174,file,__pycache__
+txt_to_json.cpython-311.pyc,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager\__pycache__,1321,file,__pycache__
+__init__.cpython-311.pyc,C:\Users\khani\OneDrive\Рабочий стол\Seminar_8\File_manager\__pycache__,194,file,__pycache__
